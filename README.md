@@ -1,5 +1,5 @@
 # Hi there, John here 👋
-- ✈ Application Developer at De Havilland Canada
+- ✈ Application Developer at De Havilland Aircraft of Canada
 - 📗 Computer Science + Statistics at University of Toronto
 
 # 📫 Connect with me
