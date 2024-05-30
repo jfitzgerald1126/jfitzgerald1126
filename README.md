@@ -1,5 +1,5 @@
 # Hi there, John here 👋
-- ✈ Application Developer at De Havilland Aircraft of Canada
+- 🚗 Application Developer at Tesla
 - 📗 Computer Science + Statistics at University of Toronto
 
 # 📫 Connect with me
