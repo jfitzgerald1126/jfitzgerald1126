@@ -1,5 +1,5 @@
 # Hi there, John here 👋
-- 🚗 Application Developer at Tesla
+- 🚗 Software Engineer Intern at Tesla
 - 📗 Computer Science + Statistics at University of Toronto
 
 # 📫 Connect with me
